@@ -1,0 +1,151 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/24.png" group-title="Horjun Tv",A Tv
+https://horjuntv.com.tm/chanel/ch094.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/1.png" group-title="Horjun Tv",Altyn Asyr
+https://horjuntv.com.tm/chanel2/ch001.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/6.png" group-title="Horjun Tv",Asgabat
+https://horjuntv.com.tm/chanel2/ch006.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="Horjun Tv",CGTN-Русский
+https://horjuntv.com.tm/chanel2/ch061.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/41.png" group-title="Horjun Tv",DMAX TR
+https://horjuntv.com.tm/chanel2/ch083.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/10.png" group-title="Horjun Tv",Euronews
+https://horjuntv.com.tm/chanel/ch059.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/35.png" group-title="Horjun Tv",Footboll HD
+https://horjuntv.com.tm/chanel2/ch093.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/14.png" group-title="Horjun Tv",Idman Tv
+https://horjuntv.com.tm/chanel/ch062.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/32.webp" group-title="Horjun Tv",Kanal 7 HD TR
+https://horjuntv.com.tm/chanel/ch035.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/18.png" group-title="Horjun Tv",Kanal D HD TR
+https://horjuntv.com.tm/chanel/ch082.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/51.png" group-title="Horjun Tv",Kinoteatr
+https://horjuntv.com.tm/chanel2/ch066.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/38.png" group-title="Horjun Tv",Minika Cocuk
+https://horjuntv.com.tm/chanel2/ch088.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/3.png" group-title="Horjun Tv",Miras
+https://horjuntv.com.tm/chanel2/ch003.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/40.png" group-title="Horjun Tv",О2ТВ
+https://horjuntv.com.tm/chanel2/ch086.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/34.png" group-title="Horjun Tv",Russian Music Box
+https://horjuntv.com.tm/chanel/ch046.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/16.png" group-title="Horjun Tv",Show HD TR
+https://horjuntv.com.tm/chanel/ch091.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/30.png" group-title="Horjun Tv",Star TV HD TR
+https://horjuntv.com.tm/chanel/ch092.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Horjun Tv",TRT 1
+https://horjuntv.com.tm/chanel/ch076.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/1200px-TRT_M%C3%BCzik_logo.svg.png" group-title="Horjun Tv",TRT Muzik
+https://horjuntv.com.tm/chanel/ch077.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/44.png" group-title="Horjun Tv",TV8 TR
+https://horjuntv.com.tm/chanel2/ch095.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/5.png" group-title="Horjun Tv",Turkmen Owazy
+https://horjuntv.com.tm/chanel2/ch005.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/4.png" group-title="Horjun Tv",Turkmen Sport
+https://horjuntv.com.tm/chanel2/ch007.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/7.png" group-title="Horjun Tv",Turkmenistan
+https://horjuntv.com.tm/chanel2/ch004.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/17.png" group-title="Horjun Tv",Восток ТВ
+https://horjuntv.com.tm/chanel/ch085.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/2.png" group-title="Horjun Tv",Yaslyk
+https://horjuntv.com.tm/chanel2/ch002.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/26.png" group-title="Horjun Tv",Матч! Боец
+https://horjuntv.com.tm/chanel/ch097.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/23.png" group-title="Horjun Tv",Варзиш Спорт
+https://horjuntv.com.tm/chanel/ch040.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/36.png" group-title="Horjun Tv",Дикая охота
+https://horjuntv.com.tm/chanel2/ch099.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/20.png" group-title="Horjun Tv",Домашний
+https://horjuntv.com.tm/chanel/ch029.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/20.png" group-title="Horjun Tv",Домашний
+https://horjuntv.com.tm/chanel2/ch029.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/37.png" group-title="Horjun Tv",Жара
+https://horjuntv.com.tm/chanel2/ch096.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/21.png" group-title="Horjun Tv",Звезда -1
+https://horjuntv.com.tm/chanel2/ch019.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/21.png" group-title="Horjun Tv",Звезда -2
+https://horjuntv.com.tm/chanel/ch020.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/8.png" group-title="Horjun Tv",Матч!
+https://horjuntv.com.tm/chanel/ch013.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/56.png" group-title="Horjun Tv",Мир 24
+https://horjuntv.com.tm/chanel2/ch030.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/15.png" group-title="Horjun Tv",Мульт
+https://horjuntv.com.tm/chanel/ch051.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/28.png" group-title="Horjun Tv",НТВ -5
+https://horjuntv.com.tm/chanel/ch017.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/27.png" group-title="Horjun Tv",Первый канал -1
+https://horjuntv.com.tm/chanel/ch008.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/13.png" group-title="Horjun Tv",Пятница!
+https://horjuntv.com.tm/chanel/ch056.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/48.png" group-title="Horjun Tv",РБК
+https://horjuntv.com.tm/chanel2/ch053.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/33.png" group-title="Horjun Tv",РенТВ
+https://horjuntv.com.tm/chanel/ch037.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/47.png" group-title="Horjun Tv",Россия 1 -4
+https://horjuntv.com.tm/chanel2/ch010.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/19.png" group-title="Horjun Tv",Россия 24
+https://horjuntv.com.tm/chanel/ch014.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/50.png" group-title="Horjun Tv",СТС
+https://horjuntv.com.tm/chanel/ch023.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/50.png" group-title="Horjun Tv",СТС +4
+https://horjuntv.com.tm/chanel2/ch021.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/11.png" group-title="Horjun Tv",ТНТ Music
+https://horjuntv.com.tm/chanel/ch036.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/49.png" group-title="Horjun Tv",ТВ3
+https://horjuntv.com.tm/chanel2/ch034.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/53.png" group-title="Horjun Tv",Матч! ФУТБОЛ 1
+https://horjuntv.com.tm/chanel2/ch052.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/29.png" group-title="Horjun Tv",Че
+https://horjuntv.com.tm/chanel2/ch025.m3u8
+
+#EXTINF:-1 tvg-logo="https://horjuntv.com.tm/images/onlinecanal/29.png" group-title="Horjun Tv",Че!
+https://horjuntv.com.tm/chanel/ch026.m3u8
